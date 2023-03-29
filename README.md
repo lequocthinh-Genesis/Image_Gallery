@@ -13,6 +13,3 @@
 - Phân loại hình ảnh theo loại file: jpg, png, sgv
 - Xem chi tiết hình ảnh
 
-## Link xem trực tiếp trên web:
-
-https://lequocthinh-genesis.github.io/Image_Gallery/
